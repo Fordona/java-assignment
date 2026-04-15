@@ -99,7 +99,7 @@ We weight this document heavily. A modest implementation with thoughtful design 
    - `DESIGN.md`
    - A `README.md` with clear setup and run instructions
    - Tests that can be run with a single command
-3. Reply to the original email with the repo link when you're done.
+3. Send an email to talent@fordona.com with a link to your repository when you’re done. Make sure to include your first and last name
 
 ---
 
